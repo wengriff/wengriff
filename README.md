@@ -6,8 +6,8 @@
 - 🕹️ Avid gamer and tech enthusiast
 
 ## Professional Skills
-- 💻 Skilled iOS Developer and Shopify dev
-- 🧠 Deeply interested in Artificial Intelligence and Machine Learning
+- 💻 iOS and Shopify
+- 🧠 Interested in Artificial Intelligence and Machine Learning
 - 🍏 Proficient with Apple products and development tools
 - 🛠️ Building and optimizing Shopify stores and apps
 
@@ -18,7 +18,7 @@
 
 ## My Goals
 - 🎓 Complete my master's in computer science
-- 🚀 Develop a successful Shopify/Apple apps
+- 🚀 Develop Shopify/Apple apps
 
 ## Connect with Me
 - 📧 [Email](mailto:adrian.somor2@gmail.com)
