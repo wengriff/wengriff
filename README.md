@@ -5,25 +5,13 @@
 - 🌍 Based in Slovakia, with part-time work at Veronika Resort in Nosy Komba, Madagascar
 - 🕹️ Avid gamer and tech enthusiast
 
-## Professional Skills
-- 💻 iOS and Shopify
-- 🧠 Interested in Artificial Intelligence and Machine Learning
-- 🍏 Proficient with Apple products and development tools
-- 🛠️ Building and optimizing Shopify stores and apps
-
 ## Personal Interests
-- 🥋 Training in Brazilian jiu-jitsu
+- 🥋 Brazilian jiu-jitsu
 - 💪 Focused on a healthy lifestyle 
 - 🇯🇵 Learning Japanese
 
-## My Goals
-- 🎓 Complete my master's in computer science
-- 🚀 Develop Shopify/Apple apps
-
 ## Connect with Me
 - 📧 [Email](mailto:adrian.somor2@gmail.com)
-- 🐦 [Twitter](https://twitter.com/adriansomor)
+- 🐦 [X](https://x.com/adriansomor)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/adrian-somor/)
-
-Feel free to browse my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
 
